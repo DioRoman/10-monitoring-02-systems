@@ -38,7 +38,7 @@ https://github.com/DioRoman/sandbox/blob/master/telegraf/telegraf.conf
 
 <img width="1532" height="1191" alt="Снимок экрана 2025-08-12 220948" src="https://github.com/user-attachments/assets/c255af2d-e8c3-4ee6-9e89-eef0d07eafd0" />
 
-PS: Обязательно даё права на /var/run/docker.sock. В первую очередь добавляем пользователя в группу docker, во вторую очередь внутри контейнера запускаем все под root (или пользователем с аналогичными правами).
+PS: Обязательно даём права на /var/run/docker.sock. В первую очередь добавляем пользователя в группу docker, во вторую очередь внутри контейнера запускаем все под root (или пользователем с аналогичными правами).
 
 ***
 
