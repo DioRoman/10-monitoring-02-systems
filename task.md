@@ -3,12 +3,12 @@
 
 ### Обязательные задания
 
-1. **Запуск TICK-стэка**
+7. **Запуск TICK-стэка**
    - Склонируйте репозиторий [influxdata/sandbox](https://github.com/influxdata/sandbox/tree/master).
    - Запустите TICK-стэк с помощью Docker и docker-compose.
    - Если контейнеры падают с ошибкой, установите для них режим `Z`, например `./data:/var/lib:Z`.
 
-2. **Веб-интерфейс Chronograf**
+8. **Веб-интерфейс Chronograf**
    - Откройте веб-интерфейс по адресу: [http://localhost:8888](http://localhost:8888).
    - Перейдите во вкладку **Data explorer**.
    - Нажмите кнопку **Add a query**.
@@ -19,7 +19,7 @@
    - Поэкспериментируйте с запросом — изменяйте группировку и интервал наблюдений.
    - Сделайте скриншот графика утилизации CPU из веб-интерфейса.
 
-3. **Добавление плагина Docker в Telegraf**
+9. **Добавление плагина Docker в Telegraf**
    - Изучите список telegraf inputs: [Telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs).
    - Добавьте в конфигурацию Telegraf следующий плагин:
 
