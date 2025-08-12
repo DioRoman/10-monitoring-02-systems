@@ -64,6 +64,7 @@ https://github.com/DioRoman/10-monitoring-02-systems/blob/main/metrics.py
 
 <img width="2075" height="734" alt="Снимок экрана 2025-08-12 230500" src="https://github.com/user-attachments/assets/6a6d0db9-8c88-4b88-9354-140552b46da1" />
 
+
 <details>
   <summary>Полезные команды</summary>
   
